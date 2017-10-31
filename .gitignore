@@ -1,7 +1,7 @@
 .DS_Store
 node_modules/
 dist/
-.vscode/
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -12,3 +12,4 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
+*.vscode
