@@ -1,6 +1,8 @@
 # app-english
 
-> A Vue.js project
+> 演示项目
+
+[demo](https://lx544690189.github.io/app-english/)
 
 ## Build Setup
 
